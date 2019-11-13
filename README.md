@@ -27,7 +27,7 @@
 
 You want to learn more about Martine? Invite her and use `,help` command to get started, or join our Discord!
 
-#### Links:
+### Links:
 
 [Invite Martine](http://bit.ly/MartinetheBOT)  
 [Website](https://martinethebot.com)  
@@ -37,7 +37,7 @@ You want to learn more about Martine? Invite her and use `,help` command to get 
 ](https://discord.gg/R6puN8Z)
 
   
-#### Credits:
+### Credits:
 
 __Red__:  
 > Martine is a custom fork of [Red, an open source Discord bot]({https://github.com/Cog-Creators/Red-DiscordBot}). It was created by [Twentysix]({https://github.com/Twentysix26}) and it is [improved by many]({https://github.com/Cog-Creators}).  
