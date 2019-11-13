@@ -61,8 +61,8 @@ Trusty https://github.com/TrustyJAID/Trusty-cogs
 Jackenmen https://github.com/jack1142/JackCogs  
 
 __Artist__:  
-> The artwork/avatar has been made by [Babi]({https://www.deviantart.com/babi-jini}), an amazing artist.   
+> The artwork/avatar has been made by [Babi](https://www.deviantart.com/babi-jini), an amazing artist.   
 Thanks to this talented artist for this beautiful artwork,
-feel free to look at her [DeviantArt profile]({https://www.deviantart.com/babi-jini}). A lot of easter eggs are on this artwork also.  
+feel free to look at her [DeviantArt profile](https://www.deviantart.com/babi-jini). A lot of easter eggs are on this artwork also.  
 
 ##### Martine#4245. ♡
